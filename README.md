@@ -12,29 +12,29 @@ The following chart shows each of the bike of the system with its corresponding 
 
 ![Bike_utilization_through_the_month](Bike_utilization_through_the_month.jpg)
 
-The three charts below show the trips by the hour by gender (Male, Female or Unknown when the gender information is not available)
-
-![Count_trips_by_hour_female](Count_trips_by_hour_female.jpg)
+The three charts below show the trips by the hour by gender (Male, Female or Unknown when the gender information is not available). The Male and Female charts show some sort of similarity in pattern during weekdays while the "unknown" had the busies hours in the weekends.
 
 ![Count_trips_by_hour_male](Count_trips_by_hour_male.jpg)
 
+![Count_trips_by_hour_female](Count_trips_by_hour_female.jpg)
+
 ![Count_trips_by_hour_unknown](Count_trips_by_hour_unknown.jpg)
 
-
-xxxx
+The chart below shows the distributions by gender by weekdays. It is clear that the majority of riders are male!
 
 ![Count_trips_by_weekday_by_gender](Count_trips_by_weekday_by_gender.jpg)
+
+The next two charts show trip duration - being the first the consolidation of all riders and the second one with gender breakdown. It is interesting to observe that the great majority of rides last up to 20 minutes, being somehow rare longer rides.
 
 ![Trip_duration](Trip_duration.jpg)
 
 ![Trip_duration_by_gender](Trip_duration_by_gender.jpg)
 
-![xxx](xxx.jpg)
 
-
-
-[https://public.tableau.com/app/profile/ana.l.gajardoni/viz/Book1_16459145436010/CitibikingProject-Letsbegreen](tableau link)
 
 # Summary
-As as extra chart, I would propose making charts correlating Start Location and End Location per hour of the day to see the "flow" of bikes within the stations. Lastly (and very boldly), it would be especially interesting to see  I would like to see an such flow in a chart dynamically 
-Tableu challenge
+The final tableau story can be found at: https://public.tableau.com/app/profile/ana.l.gajardoni/viz/Book1_16459145436010/CitibikingProject-Letsbegreen
+
+It was a very interesting exercise to visualize data! I would propose making extra charts:
+- to understand the "flow" of the bikes between stations: Start/Stop Locations.
+- to correlate repeating trips (query above) with the time of the day - and then, the trip back if any - so as to predict the need of more bikes in each location at different times of the day.
