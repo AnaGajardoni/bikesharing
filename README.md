@@ -12,11 +12,16 @@ The following chart shows each of the bike of the system with its corresponding 
 
 ![Bike_utilization_through_the_month](Bike_utilization_through_the_month.jpg)
 
+The three charts below show the trips by the hour by gender (Male, Female or Unknown when the gender information is not available)
+
 ![Count_trips_by_hour_female](Count_trips_by_hour_female.jpg)
 
 ![Count_trips_by_hour_male](Count_trips_by_hour_male.jpg)
 
 ![Count_trips_by_hour_unknown](Count_trips_by_hour_unknown.jpg)
+
+
+xxxx
 
 ![Count_trips_by_weekday_by_gender](Count_trips_by_weekday_by_gender.jpg)
 
